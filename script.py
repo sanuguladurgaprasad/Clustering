@@ -2,6 +2,7 @@ import glob, os, re
 import collections
 import math
 
+from operator import itemgetter
 from nltk.stem import PorterStemmer
 ps=PorterStemmer()
 class offsets:
@@ -221,8 +222,14 @@ print(len(dict1))
 fp1=open("freq.csv","w")
 fp2=open("sqrt.csv","w")
 fp3=open("log2freq.csv","w")
+fp4=open("reuters21578.class","w")
+fp5=open("reuters21578.clabel","w")
+
+for w in dict1:
+    fp5.write(w+","+str(dict1[w])+os.linesep)
 u=0
 for x in list2:
+    fp4.write(x.newId+","+x.topic+os.linesep)
     u=u+1
     print(u)
     dict2=collections.OrderedDict()
@@ -237,8 +244,8 @@ for x in list2:
     for w in dict2:
         h=dict2[w]
         norm1=norm1+h**2
-        norm2=norm2+(1+math.sqrt(h))
-        norm3=norm3+(1+math.log(h,2))
+        norm2=norm2+(1+math.sqrt(h))**2
+        norm3=norm3+(1+math.log(h,2))**2
     norm1=norm1**(0.5)
     norm2=norm2**(0.5)
     norm3=norm3**(0.5)
@@ -247,6 +254,7 @@ for x in list2:
         ind = dict1.keys().index(w)
         fp1.write(x.newId+",")
         fp1.write(str(ind)+",")
+        #fp1.write(w+",")
         #fp1.write(w+" ")
         fp1.write(str(h/float(norm1))+os.linesep)
         fp2.write(x.newId+",")
@@ -259,3 +267,5 @@ for x in list2:
 fp1.close()
 fp2.close()
 fp3.close()
+fp4.close()
+fp5.close()

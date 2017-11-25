@@ -1,0 +1,1249 @@
+
+trials= 0
+itr= 0
+Entropy= 1.53455 Purity= 0.679679
+max = 0.80586
+itr= 1
+Entropy= 1.16218 Purity= 0.743916
+max = 0.0565777
+itr= 2
+Entropy= 1.09063 Purity= 0.759975
+max = 0.016082
+itr= 3
+Entropy= 1.07636 Purity= 0.762199
+max = 0.00537313
+itr= 4
+Entropy= 1.07391 Purity= 0.761458
+max = 0.00619827
+itr= 5
+Entropy= 1.06922 Purity= 0.757505
+max = 0.00569484
+itr= 6
+Entropy= 1.06551 Purity= 0.760469
+max = 0.0049195
+itr= 7
+Entropy= 1.05251 Purity= 0.767758
+max = 0.00731641
+itr= 8
+Entropy= 1.0305 Purity= 0.775911
+max = 0.0100138
+itr= 9
+Entropy= 1.0249 Purity= 0.777023
+max = 0.00380045
+itr= 10
+Entropy= 1.02839 Purity= 0.776035
+max = 0.000553113
+itr= 11
+Entropy= 1.02778 Purity= 0.775911
+max = 0.000637933
+itr= 12
+Entropy= 1.02718 Purity= 0.776282
+max = 0.000332519
+itr= 13
+Entropy= 1.02345 Purity= 0.776899
+max = 0.00076797
+itr= 14
+Entropy= 1.02263 Purity= 0.777023
+max = 0.00110538
+itr= 15
+Entropy= 1.02223 Purity= 0.777023
+max = 0.000893807
+itr= 16
+Entropy= 1.02094 Purity= 0.777146
+max = 0.00019534
+itr= 17
+Entropy= 1.02154 Purity= 0.777023
+max = 5.15421e-05
+
+trials= 1
+itr= 0
+Entropy= 1.70668 Purity= 0.637678
+max = 0.811641
+itr= 1
+Entropy= 1.31822 Purity= 0.719951
+max = 0.0648642
+itr= 2
+Entropy= 1.17557 Purity= 0.755528
+max = 0.0158477
+itr= 3
+Entropy= 1.12575 Purity= 0.765411
+max = 0.0328137
+itr= 4
+Entropy= 1.11537 Purity= 0.771958
+max = 0.0736359
+itr= 5
+Entropy= 1.10938 Purity= 0.774429
+max = 0.00328098
+itr= 6
+Entropy= 1.09633 Purity= 0.773935
+max = 0.00681661
+itr= 7
+Entropy= 1.0812 Purity= 0.773317
+max = 0.00152526
+itr= 8
+Entropy= 1.07953 Purity= 0.771834
+max = 0.00142839
+itr= 9
+Entropy= 1.08033 Purity= 0.770476
+max = 0.000739111
+itr= 10
+Entropy= 1.0844 Purity= 0.769611
+max = 0.000557339
+itr= 11
+Entropy= 1.08431 Purity= 0.768746
+max = 0.000483165
+itr= 12
+Entropy= 1.08666 Purity= 0.767634
+max = 0.000215076
+itr= 13
+Entropy= 1.08746 Purity= 0.766893
+max = 0.000109805
+itr= 14
+Entropy= 1.08638 Purity= 0.76677
+max = 9.18526e-05
+
+trials= 2
+itr= 0
+Entropy= 1.54773 Purity= 0.68672
+max = 0.807333
+itr= 1
+Entropy= 1.2153 Purity= 0.746016
+max = 0.0573491
+itr= 2
+Entropy= 1.12667 Purity= 0.768623
+max = 0.0155445
+itr= 3
+Entropy= 1.08988 Purity= 0.780111
+max = 0.0131523
+itr= 4
+Entropy= 1.07231 Purity= 0.784188
+max = 0.00347955
+itr= 5
+Entropy= 1.05103 Purity= 0.788141
+max = 0.00501673
+itr= 6
+Entropy= 1.04662 Purity= 0.788264
+max = 0.00749405
+itr= 7
+Entropy= 1.03786 Purity= 0.788635
+max = 0.00146746
+itr= 8
+Entropy= 1.03327 Purity= 0.787894
+max = 0.00081389
+itr= 9
+Entropy= 1.03085 Purity= 0.787029
+max = 0.000690184
+itr= 10
+Entropy= 1.03194 Purity= 0.786041
+max = 0.00034587
+itr= 11
+Entropy= 1.03033 Purity= 0.785917
+max = 0.000160531
+itr= 12
+Entropy= 1.02867 Purity= 0.785547
+max = 0.000226173
+itr= 13
+Entropy= 1.02868 Purity= 0.785176
+max = 0.000146094
+itr= 14
+Entropy= 1.02844 Purity= 0.784929
+max = 0.000206258
+itr= 15
+Entropy= 1.02777 Purity= 0.784929
+max = 0.000241151
+itr= 16
+Entropy= 1.02562 Purity= 0.784805
+max = 6.55437e-05
+
+trials= 3
+itr= 0
+Entropy= 1.69988 Purity= 0.666214
+max = 0.849063
+itr= 1
+Entropy= 1.35082 Purity= 0.727486
+max = 0.0499133
+itr= 2
+Entropy= 1.30131 Purity= 0.73428
+max = 0.0237685
+itr= 3
+Entropy= 1.29323 Purity= 0.73218
+max = 0.00665195
+itr= 4
+Entropy= 1.29161 Purity= 0.734651
+max = 0.0078935
+itr= 5
+Entropy= 1.28523 Purity= 0.742928
+max = 0.00919616
+itr= 6
+Entropy= 1.26011 Purity= 0.74861
+max = 0.014337
+itr= 7
+Entropy= 1.21049 Purity= 0.755405
+max = 0.0104279
+itr= 8
+Entropy= 1.1729 Purity= 0.764793
+max = 0.00545738
+itr= 9
+Entropy= 1.16445 Purity= 0.767264
+max = 0.00411423
+itr= 10
+Entropy= 1.17 Purity= 0.766893
+max = 0.00925099
+itr= 11
+Entropy= 1.16879 Purity= 0.766028
+max = 0.0104893
+itr= 12
+Entropy= 1.16563 Purity= 0.764917
+max = 0.00594203
+itr= 13
+Entropy= 1.15983 Purity= 0.762817
+max = 0.00317319
+itr= 14
+Entropy= 1.15609 Purity= 0.761705
+max = 0.000859578
+itr= 15
+Entropy= 1.15235 Purity= 0.761087
+max = 0.00104906
+itr= 16
+Entropy= 1.1512 Purity= 0.759975
+max = 0.000542328
+itr= 17
+Entropy= 1.14796 Purity= 0.761087
+max = 0.000361518
+itr= 18
+Entropy= 1.14612 Purity= 0.761334
+max = 0.000284179
+itr= 19
+Entropy= 1.14314 Purity= 0.76294
+max = 0.000449016
+itr= 20
+Entropy= 1.14032 Purity= 0.76504
+max = 0.000470537
+itr= 21
+Entropy= 1.13881 Purity= 0.766028
+max = 0.00024666
+itr= 22
+Entropy= 1.13544 Purity= 0.768252
+max = 0.00066519
+itr= 23
+Entropy= 1.1283 Purity= 0.771711
+max = 0.000799769
+itr= 24
+Entropy= 1.12262 Purity= 0.774182
+max = 0.000509813
+itr= 25
+Entropy= 1.11603 Purity= 0.776158
+max = 0.000466263
+itr= 26
+Entropy= 1.11293 Purity= 0.777764
+max = 0.0002747
+itr= 27
+Entropy= 1.1055 Purity= 0.779741
+max = 0.00021392
+itr= 28
+Entropy= 1.10278 Purity= 0.780605
+max = 0.000149392
+itr= 29
+Entropy= 1.10227 Purity= 0.781099
+max = 0.000119339
+itr= 30
+Entropy= 1.10296 Purity= 0.780852
+max = 4.45501e-05
+
+trials= 4
+itr= 0
+Entropy= 1.51115 Purity= 0.672884
+max = 0.811282
+itr= 1
+Entropy= 1.12743 Purity= 0.751452
+max = 0.0277072
+itr= 2
+Entropy= 1.04843 Purity= 0.777393
+max = 0.0156413
+itr= 3
+Entropy= 0.999219 Purity= 0.792217
+max = 0.0190992
+itr= 4
+Entropy= 0.977723 Purity= 0.795306
+max = 0.00450385
+itr= 5
+Entropy= 0.968429 Purity= 0.794812
+max = 0.0063919
+itr= 6
+Entropy= 0.968917 Purity= 0.788264
+max = 0.0215616
+itr= 7
+Entropy= 0.973082 Purity= 0.781099
+max = 0.0115398
+itr= 8
+Entropy= 0.969888 Purity= 0.776405
+max = 0.00360845
+itr= 9
+Entropy= 0.95917 Purity= 0.780976
+max = 0.00644691
+itr= 10
+Entropy= 0.939111 Purity= 0.788388
+max = 0.0129602
+itr= 11
+Entropy= 0.941392 Purity= 0.7895
+max = 0.02505
+itr= 12
+Entropy= 0.96823 Purity= 0.786164
+max = 0.0248081
+itr= 13
+Entropy= 0.984232 Purity= 0.783817
+max = 0.00768595
+itr= 14
+Entropy= 0.990162 Purity= 0.784064
+max = 0.00595717
+itr= 15
+Entropy= 0.995687 Purity= 0.78357
+max = 0.00522241
+itr= 16
+Entropy= 0.999098 Purity= 0.783447
+max = 0.00478007
+itr= 17
+Entropy= 1.00082 Purity= 0.782952
+max = 0.00169357
+itr= 18
+Entropy= 1.00032 Purity= 0.783323
+max = 0.00112641
+itr= 19
+Entropy= 0.997824 Purity= 0.783447
+max = 0.000779763
+itr= 20
+Entropy= 0.996492 Purity= 0.783447
+max = 0.000335203
+itr= 21
+Entropy= 0.997064 Purity= 0.7832
+max = 5.85874e-05
+
+trials= 5
+itr= 0
+Entropy= 1.62284 Purity= 0.675973
+max = 0.804087
+itr= 1
+Entropy= 1.24402 Purity= 0.749475
+max = 0.0736266
+itr= 2
+Entropy= 1.07562 Purity= 0.780605
+max = 0.0172027
+itr= 3
+Entropy= 1.02216 Purity= 0.792094
+max = 0.0287769
+itr= 4
+Entropy= 1.00054 Purity= 0.794565
+max = 0.00613244
+itr= 5
+Entropy= 0.994376 Purity= 0.796418
+max = 0.0073135
+itr= 6
+Entropy= 0.99498 Purity= 0.795553
+max = 0.0114074
+itr= 7
+Entropy= 1.00273 Purity= 0.793206
+max = 0.00455835
+itr= 8
+Entropy= 1.00789 Purity= 0.791106
+max = 0.00214387
+itr= 9
+Entropy= 1.01519 Purity= 0.788141
+max = 0.00298769
+itr= 10
+Entropy= 1.01755 Purity= 0.785176
+max = 0.00280873
+itr= 11
+Entropy= 1.02225 Purity= 0.78147
+max = 0.00112674
+itr= 12
+Entropy= 1.0303 Purity= 0.777764
+max = 0.000464409
+itr= 13
+Entropy= 1.03428 Purity= 0.775417
+max = 0.000196923
+itr= 14
+Entropy= 1.03746 Purity= 0.772823
+max = 0.000369944
+itr= 15
+Entropy= 1.03814 Purity= 0.771711
+max = 0.000125625
+itr= 16
+Entropy= 1.03937 Purity= 0.772452
+max = 0.000102794
+itr= 17
+Entropy= 1.04004 Purity= 0.772946
+max = 7.76802e-05
+
+trials= 6
+itr= 0
+Entropy= 1.56196 Purity= 0.686473
+max = 0.761086
+itr= 1
+Entropy= 1.20506 Purity= 0.748734
+max = 0.0521605
+itr= 2
+Entropy= 1.09953 Purity= 0.763558
+max = 0.00940834
+itr= 3
+Entropy= 1.05559 Purity= 0.769858
+max = 0.0055346
+itr= 4
+Entropy= 1.04395 Purity= 0.772082
+max = 0.00828601
+itr= 5
+Entropy= 1.0365 Purity= 0.773193
+max = 0.00482652
+itr= 6
+Entropy= 1.03774 Purity= 0.773564
+max = 0.00363399
+itr= 7
+Entropy= 1.03427 Purity= 0.773317
+max = 0.00318249
+itr= 8
+Entropy= 1.03615 Purity= 0.771834
+max = 0.00250607
+itr= 9
+Entropy= 1.03889 Purity= 0.768993
+max = 0.00315393
+itr= 10
+Entropy= 1.0431 Purity= 0.767387
+max = 0.00306812
+itr= 11
+Entropy= 1.03319 Purity= 0.770723
+max = 0.00496054
+itr= 12
+Entropy= 1.01945 Purity= 0.775046
+max = 0.00708194
+itr= 13
+Entropy= 1.00775 Purity= 0.778135
+max = 0.00771205
+itr= 14
+Entropy= 0.999215 Purity= 0.77937
+max = 0.00599137
+itr= 15
+Entropy= 0.996623 Purity= 0.779988
+max = 0.00236677
+itr= 16
+Entropy= 0.997475 Purity= 0.780235
+max = 0.00171112
+itr= 17
+Entropy= 0.996569 Purity= 0.781099
+max = 0.000526753
+itr= 18
+Entropy= 0.996523 Purity= 0.781223
+max = 0.00011405
+itr= 19
+Entropy= 0.996727 Purity= 0.781099
+max = 5.97227e-05
+
+trials= 7
+itr= 0
+Entropy= 1.58732 Purity= 0.687832
+max = 0.770062
+itr= 1
+Entropy= 1.29423 Purity= 0.727116
+max = 0.103841
+itr= 2
+Entropy= 1.17727 Purity= 0.741322
+max = 0.015346
+itr= 3
+Entropy= 1.13195 Purity= 0.747993
+max = 0.00721104
+itr= 4
+Entropy= 1.11646 Purity= 0.751699
+max = 0.00253228
+itr= 5
+Entropy= 1.11174 Purity= 0.752193
+max = 0.00525812
+itr= 6
+Entropy= 1.10926 Purity= 0.75281
+max = 0.00589983
+itr= 7
+Entropy= 1.10616 Purity= 0.753922
+max = 0.00370022
+itr= 8
+Entropy= 1.10924 Purity= 0.753552
+max = 0.00206432
+itr= 9
+Entropy= 1.11144 Purity= 0.753428
+max = 0.000931397
+itr= 10
+Entropy= 1.11277 Purity= 0.753181
+max = 0.000163446
+itr= 11
+Entropy= 1.11386 Purity= 0.753305
+max = 0.000346395
+itr= 12
+Entropy= 1.114 Purity= 0.753305
+max = 8.62983e-05
+
+trials= 8
+itr= 0
+Entropy= 1.58073 Purity= 0.677579
+max = 0.79819
+itr= 1
+Entropy= 1.32752 Purity= 0.721186
+max = 0.0642006
+itr= 2
+Entropy= 1.21531 Purity= 0.752563
+max = 0.0480741
+itr= 3
+Entropy= 1.16771 Purity= 0.766399
+max = 0.00810491
+itr= 4
+Entropy= 1.15165 Purity= 0.767758
+max = 0.00348144
+itr= 5
+Entropy= 1.13361 Purity= 0.768993
+max = 0.00298648
+itr= 6
+Entropy= 1.12507 Purity= 0.770846
+max = 0.00264332
+itr= 7
+Entropy= 1.11454 Purity= 0.774923
+max = 0.00315103
+itr= 8
+Entropy= 1.10279 Purity= 0.778505
+max = 0.00339745
+itr= 9
+Entropy= 1.09491 Purity= 0.780358
+max = 0.00230024
+itr= 10
+Entropy= 1.09688 Purity= 0.778999
+max = 0.000978046
+itr= 11
+Entropy= 1.10632 Purity= 0.775788
+max = 0.000575211
+itr= 12
+Entropy= 1.11361 Purity= 0.772699
+max = 0.000360041
+itr= 13
+Entropy= 1.12326 Purity= 0.767634
+max = 0.000964355
+itr= 14
+Entropy= 1.13437 Purity= 0.761334
+max = 0.00191228
+itr= 15
+Entropy= 1.14401 Purity= 0.753428
+max = 0.00467953
+itr= 16
+Entropy= 1.15503 Purity= 0.740828
+max = 0.0202275
+itr= 17
+Entropy= 1.15704 Purity= 0.740828
+max = 0.0147267
+itr= 18
+Entropy= 1.15556 Purity= 0.744287
+max = 0.00133298
+itr= 19
+Entropy= 1.15757 Purity= 0.745275
+max = 0.000379784
+itr= 20
+Entropy= 1.15643 Purity= 0.74651
+max = 0.000114545
+itr= 21
+Entropy= 1.15939 Purity= 0.746634
+max = 9.94674e-05
+
+trials= 9
+itr= 0
+Entropy= 1.57284 Purity= 0.667696
+max = 0.83018
+itr= 1
+Entropy= 1.15821 Purity= 0.753057
+max = 0.0432103
+itr= 2
+Entropy= 1.07474 Purity= 0.769117
+max = 0.00832904
+itr= 3
+Entropy= 1.04575 Purity= 0.777517
+max = 0.00829829
+itr= 4
+Entropy= 1.02254 Purity= 0.783694
+max = 0.0180876
+itr= 5
+Entropy= 1.00533 Purity= 0.788264
+max = 0.00936909
+itr= 6
+Entropy= 1.01091 Purity= 0.788511
+max = 0.00637878
+itr= 7
+Entropy= 1.01677 Purity= 0.790735
+max = 0.0120103
+itr= 8
+Entropy= 1.01305 Purity= 0.794441
+max = 0.00777719
+itr= 9
+Entropy= 0.997623 Purity= 0.8
+max = 0.00716688
+itr= 10
+Entropy= 0.983612 Purity= 0.803706
+max = 0.00683641
+itr= 11
+Entropy= 0.974354 Purity= 0.8042
+max = 0.00304908
+itr= 12
+Entropy= 0.970378 Purity= 0.8042
+max = 0.0021262
+itr= 13
+Entropy= 0.975661 Purity= 0.802471
+max = 0.00346504
+itr= 14
+Entropy= 0.979997 Purity= 0.799753
+max = 0.00246898
+itr= 15
+Entropy= 0.983102 Purity= 0.796788
+max = 0.00156687
+itr= 16
+Entropy= 0.987553 Purity= 0.7937
+max = 0.00133211
+itr= 17
+Entropy= 0.9887 Purity= 0.7916
+max = 0.000501179
+itr= 18
+Entropy= 0.992057 Purity= 0.789376
+max = 0.000418108
+itr= 19
+Entropy= 0.992885 Purity= 0.788388
+max = 8.08799e-05
+
+trials= 10
+itr= 0
+Entropy= 1.70923 Purity= 0.666708
+max = 0.840662
+itr= 1
+Entropy= 1.3232 Purity= 0.739098
+max = 0.0746444
+itr= 2
+Entropy= 1.17242 Purity= 0.770476
+max = 0.014155
+itr= 3
+Entropy= 1.11543 Purity= 0.779123
+max = 0.017714
+itr= 4
+Entropy= 1.06399 Purity= 0.789994
+max = 0.0128927
+itr= 5
+Entropy= 1.04868 Purity= 0.795182
+max = 0.0067177
+itr= 6
+Entropy= 1.03982 Purity= 0.797529
+max = 0.00380656
+itr= 7
+Entropy= 1.01857 Purity= 0.800741
+max = 0.0086764
+itr= 8
+Entropy= 1.02313 Purity= 0.799382
+max = 0.00212092
+itr= 9
+Entropy= 1.02166 Purity= 0.798641
+max = 0.000777738
+itr= 10
+Entropy= 1.02216 Purity= 0.796912
+max = 0.000726572
+itr= 11
+Entropy= 1.01644 Purity= 0.795306
+max = 0.00100861
+itr= 12
+Entropy= 1.01317 Purity= 0.794317
+max = 0.000999923
+itr= 13
+Entropy= 1.01497 Purity= 0.792959
+max = 0.000579266
+itr= 14
+Entropy= 1.01619 Purity= 0.792464
+max = 0.000341996
+itr= 15
+Entropy= 1.02034 Purity= 0.791723
+max = 0.000990955
+itr= 16
+Entropy= 1.02071 Purity= 0.791353
+max = 0.000717166
+itr= 17
+Entropy= 1.0243 Purity= 0.790364
+max = 0.000554172
+itr= 18
+Entropy= 1.0224 Purity= 0.790735
+max = 0.000323044
+itr= 19
+Entropy= 1.02218 Purity= 0.790364
+max = 0.000138355
+itr= 20
+Entropy= 1.02208 Purity= 0.790488
+max = 0.000101631
+itr= 21
+Entropy= 1.02234 Purity= 0.790364
+max = 1.94052e-05
+
+trials= 11
+itr= 0
+Entropy= 1.67913 Purity= 0.656702
+max = 0.820046
+itr= 1
+Entropy= 1.28318 Purity= 0.716615
+max = 0.0441885
+itr= 2
+Entropy= 1.15334 Purity= 0.738357
+max = 0.0416473
+itr= 3
+Entropy= 1.09235 Purity= 0.749351
+max = 0.0120411
+itr= 4
+Entropy= 1.04299 Purity= 0.765781
+max = 0.0237176
+itr= 5
+Entropy= 1.00861 Purity= 0.776529
+max = 0.0118698
+itr= 6
+Entropy= 0.998761 Purity= 0.779864
+max = 0.00539229
+itr= 7
+Entropy= 0.984605 Purity= 0.781223
+max = 0.000607973
+itr= 8
+Entropy= 0.982887 Purity= 0.781841
+max = 0.00052908
+itr= 9
+Entropy= 0.980664 Purity= 0.782458
+max = 0.000831803
+itr= 10
+Entropy= 0.979813 Purity= 0.782952
+max = 0.000963049
+itr= 11
+Entropy= 0.978044 Purity= 0.782829
+max = 0.000975787
+itr= 12
+Entropy= 0.973646 Purity= 0.783447
+max = 0.00139293
+itr= 13
+Entropy= 0.969981 Purity= 0.783694
+max = 0.00104559
+itr= 14
+Entropy= 0.967309 Purity= 0.783817
+max = 0.000481154
+itr= 15
+Entropy= 0.964342 Purity= 0.784558
+max = 0.000490464
+itr= 16
+Entropy= 0.962716 Purity= 0.784435
+max = 0.00115279
+itr= 17
+Entropy= 0.961507 Purity= 0.784188
+max = 0.00264741
+itr= 18
+Entropy= 0.95861 Purity= 0.784435
+max = 0.00592516
+itr= 19
+Entropy= 0.959845 Purity= 0.784929
+max = 0.00519308
+itr= 20
+Entropy= 0.969071 Purity= 0.784805
+max = 0.00286233
+itr= 21
+Entropy= 0.97466 Purity= 0.784805
+max = 0.00184392
+itr= 22
+Entropy= 0.978357 Purity= 0.785053
+max = 0.0014433
+itr= 23
+Entropy= 0.979927 Purity= 0.785794
+max = 0.000327561
+itr= 24
+Entropy= 0.981126 Purity= 0.785794
+max = 9.04013e-05
+
+trials= 12
+itr= 0
+Entropy= 1.69391 Purity= 0.631501
+max = 0.777061
+itr= 1
+Entropy= 1.4051 Purity= 0.683138
+max = 0.0383167
+itr= 2
+Entropy= 1.29351 Purity= 0.710686
+max = 0.0195493
+itr= 3
+Entropy= 1.22622 Purity= 0.726004
+max = 0.00925763
+itr= 4
+Entropy= 1.18331 Purity= 0.732304
+max = 0.00781795
+itr= 5
+Entropy= 1.14947 Purity= 0.736875
+max = 0.0255193
+itr= 6
+Entropy= 1.13328 Purity= 0.740704
+max = 0.0160982
+itr= 7
+Entropy= 1.11657 Purity= 0.74404
+max = 0.010044
+itr= 8
+Entropy= 1.10618 Purity= 0.747128
+max = 0.0142025
+itr= 9
+Entropy= 1.10964 Purity= 0.745645
+max = 0.00142869
+itr= 10
+Entropy= 1.11027 Purity= 0.744287
+max = 0.000921231
+itr= 11
+Entropy= 1.10889 Purity= 0.743916
+max = 0.000977421
+itr= 12
+Entropy= 1.10723 Purity= 0.743051
+max = 0.000810647
+itr= 13
+Entropy= 1.10865 Purity= 0.741198
+max = 0.000308198
+itr= 14
+Entropy= 1.10832 Purity= 0.740704
+max = 0.000306171
+itr= 15
+Entropy= 1.10936 Purity= 0.740086
+max = 0.000188968
+itr= 16
+Entropy= 1.1089 Purity= 0.739469
+max = 0.000304152
+itr= 17
+Entropy= 1.11126 Purity= 0.739592
+max = 7.79261e-05
+
+trials= 13
+itr= 0
+Entropy= 1.56836 Purity= 0.696109
+max = 0.781925
+itr= 1
+Entropy= 1.20784 Purity= 0.753799
+max = 0.0336597
+itr= 2
+Entropy= 1.14176 Purity= 0.773564
+max = 0.0340639
+itr= 3
+Entropy= 1.1318 Purity= 0.783076
+max = 0.0297515
+itr= 4
+Entropy= 1.13159 Purity= 0.782705
+max = 0.00906692
+itr= 5
+Entropy= 1.13311 Purity= 0.782335
+max = 0.00257062
+itr= 6
+Entropy= 1.12287 Purity= 0.781347
+max = 0.00268417
+itr= 7
+Entropy= 1.10848 Purity= 0.780729
+max = 0.00280203
+itr= 8
+Entropy= 1.10278 Purity= 0.780852
+max = 0.000712514
+itr= 9
+Entropy= 1.1044 Purity= 0.780358
+max = 0.000190172
+itr= 10
+Entropy= 1.10673 Purity= 0.779246
+max = 0.000199735
+itr= 11
+Entropy= 1.10829 Purity= 0.778629
+max = 0.00131959
+itr= 12
+Entropy= 1.10911 Purity= 0.778258
+max = 0.00271444
+itr= 13
+Entropy= 1.10797 Purity= 0.778629
+max = 0.000526185
+itr= 14
+Entropy= 1.10704 Purity= 0.778629
+max = 0.000102425
+itr= 15
+Entropy= 1.10467 Purity= 0.778999
+max = 6.49626e-05
+
+trials= 14
+itr= 0
+Entropy= 1.47784 Purity= 0.695738
+max = 0.796677
+itr= 1
+Entropy= 1.17792 Purity= 0.745028
+max = 0.148237
+itr= 2
+Entropy= 1.1373 Purity= 0.753181
+max = 0.0132052
+itr= 3
+Entropy= 1.13174 Purity= 0.750834
+max = 0.00680446
+itr= 4
+Entropy= 1.12407 Purity= 0.750463
+max = 0.00379745
+itr= 5
+Entropy= 1.1235 Purity= 0.749599
+max = 0.00288218
+itr= 6
+Entropy= 1.12098 Purity= 0.750093
+max = 0.00584316
+itr= 7
+Entropy= 1.1114 Purity= 0.75244
+max = 0.0114043
+itr= 8
+Entropy= 1.08986 Purity= 0.756022
+max = 0.00655583
+itr= 9
+Entropy= 1.08633 Purity= 0.753922
+max = 0.00838812
+itr= 10
+Entropy= 1.06248 Purity= 0.757381
+max = 0.00669492
+itr= 11
+Entropy= 1.05668 Purity= 0.758987
+max = 0.00259835
+itr= 12
+Entropy= 1.05041 Purity= 0.760346
+max = 0.00279296
+itr= 13
+Entropy= 1.0468 Purity= 0.760346
+max = 0.0100404
+itr= 14
+Entropy= 1.03502 Purity= 0.760716
+max = 0.0197909
+itr= 15
+Entropy= 1.03936 Purity= 0.759111
+max = 0.00314192
+itr= 16
+Entropy= 1.04233 Purity= 0.759481
+max = 0.000795049
+itr= 17
+Entropy= 1.04304 Purity= 0.758369
+max = 0.00192966
+itr= 18
+Entropy= 1.03757 Purity= 0.760346
+max = 0.00454576
+itr= 19
+Entropy= 1.03263 Purity= 0.762446
+max = 0.00325571
+itr= 20
+Entropy= 1.02175 Purity= 0.765781
+max = 0.00473885
+itr= 21
+Entropy= 1.02012 Purity= 0.767017
+max = 0.00117714
+itr= 22
+Entropy= 1.02017 Purity= 0.768005
+max = 0.000778414
+itr= 23
+Entropy= 1.02095 Purity= 0.767881
+max = 0.000292821
+itr= 24
+Entropy= 1.02324 Purity= 0.767511
+max = 6.52946e-05
+
+trials= 15
+itr= 0
+Entropy= 1.67739 Purity= 0.644101
+max = 0.852029
+itr= 1
+Entropy= 1.3751 Purity= 0.693267
+max = 0.0762375
+itr= 2
+Entropy= 1.25537 Purity= 0.720815
+max = 0.0105673
+itr= 3
+Entropy= 1.16299 Purity= 0.743051
+max = 0.0181884
+itr= 4
+Entropy= 1.12328 Purity= 0.747251
+max = 0.0503578
+itr= 5
+Entropy= 1.09833 Purity= 0.757258
+max = 0.013489
+itr= 6
+Entropy= 1.08591 Purity= 0.766399
+max = 0.00296147
+itr= 7
+Entropy= 1.07766 Purity= 0.771464
+max = 0.00103519
+itr= 8
+Entropy= 1.07458 Purity= 0.772946
+max = 0.00085078
+itr= 9
+Entropy= 1.07717 Purity= 0.772823
+max = 0.000680378
+itr= 10
+Entropy= 1.07732 Purity= 0.77307
+max = 0.000560724
+itr= 11
+Entropy= 1.07785 Purity= 0.772946
+max = 0.000456743
+itr= 12
+Entropy= 1.07885 Purity= 0.772946
+max = 0.000232658
+itr= 13
+Entropy= 1.07966 Purity= 0.772699
+max = 0.000134225
+itr= 14
+Entropy= 1.08039 Purity= 0.772452
+max = 0.00032241
+itr= 15
+Entropy= 1.07904 Purity= 0.772699
+max = 0.000509552
+itr= 16
+Entropy= 1.07873 Purity= 0.772699
+max = 6.92562e-05
+
+trials= 16
+itr= 0
+Entropy= 1.57327 Purity= 0.67239
+max = 0.854018
+itr= 1
+Entropy= 1.31088 Purity= 0.717603
+max = 0.0409003
+itr= 2
+Entropy= 1.21397 Purity= 0.732551
+max = 0.0661341
+itr= 3
+Entropy= 1.15019 Purity= 0.735516
+max = 0.0294029
+itr= 4
+Entropy= 1.10712 Purity= 0.745522
+max = 0.0324131
+itr= 5
+Entropy= 1.09633 Purity= 0.749104
+max = 0.00747857
+itr= 6
+Entropy= 1.09211 Purity= 0.750093
+max = 0.00501038
+itr= 7
+Entropy= 1.09 Purity= 0.75034
+max = 0.00479347
+itr= 8
+Entropy= 1.09099 Purity= 0.749969
+max = 0.00452261
+itr= 9
+Entropy= 1.09328 Purity= 0.750093
+max = 0.0033383
+itr= 10
+Entropy= 1.0927 Purity= 0.749722
+max = 0.00284592
+itr= 11
+Entropy= 1.08886 Purity= 0.749351
+max = 0.00807902
+itr= 12
+Entropy= 1.06744 Purity= 0.753305
+max = 0.00699892
+itr= 13
+Entropy= 1.05534 Purity= 0.75664
+max = 0.0175801
+itr= 14
+Entropy= 1.03234 Purity= 0.768499
+max = 0.0307251
+itr= 15
+Entropy= 1.01239 Purity= 0.77517
+max = 0.0103379
+itr= 16
+Entropy= 1.00548 Purity= 0.776899
+max = 0.00180667
+itr= 17
+Entropy= 1.0034 Purity= 0.777146
+max = 0.000504555
+itr= 18
+Entropy= 1.00389 Purity= 0.777023
+max = 0.00031289
+itr= 19
+Entropy= 1.00011 Purity= 0.778011
+max = 0.000226296
+itr= 20
+Entropy= 1.00085 Purity= 0.777764
+max = 0.000228925
+itr= 21
+Entropy= 1.00243 Purity= 0.777641
+max = 0.000161889
+itr= 22
+Entropy= 1.00342 Purity= 0.777393
+max = 9.28875e-05
+
+trials= 17
+itr= 0
+Entropy= 1.84091 Purity= 0.632489
+max = 0.853929
+itr= 1
+Entropy= 1.4651 Purity= 0.67832
+max = 0.0548973
+itr= 2
+Entropy= 1.31634 Purity= 0.71118
+max = 0.0278735
+itr= 3
+Entropy= 1.22164 Purity= 0.735639
+max = 0.0114758
+itr= 4
+Entropy= 1.16361 Purity= 0.754293
+max = 0.0164035
+itr= 5
+Entropy= 1.13699 Purity= 0.759605
+max = 0.010698
+itr= 6
+Entropy= 1.13929 Purity= 0.755775
+max = 0.00216342
+itr= 7
+Entropy= 1.14301 Purity= 0.751575
+max = 0.00209928
+itr= 8
+Entropy= 1.14751 Purity= 0.748857
+max = 0.0012303
+itr= 9
+Entropy= 1.1467 Purity= 0.747128
+max = 0.000937593
+itr= 10
+Entropy= 1.15153 Purity= 0.744287
+max = 0.00067205
+itr= 11
+Entropy= 1.1518 Purity= 0.742928
+max = 0.000450573
+itr= 12
+Entropy= 1.15058 Purity= 0.743298
+max = 0.000503509
+itr= 13
+Entropy= 1.15087 Purity= 0.743792
+max = 0.00032814
+itr= 14
+Entropy= 1.15096 Purity= 0.744287
+max = 0.000213671
+itr= 15
+Entropy= 1.15111 Purity= 0.744163
+max = 0.000209051
+itr= 16
+Entropy= 1.15233 Purity= 0.743916
+max = 0.000236458
+itr= 17
+Entropy= 1.15168 Purity= 0.743916
+max = 0.000383963
+itr= 18
+Entropy= 1.15156 Purity= 0.743916
+max = 0.000306284
+itr= 19
+Entropy= 1.15029 Purity= 0.744163
+max = 0.000488759
+itr= 20
+Entropy= 1.14939 Purity= 0.74404
+max = 0.000381954
+itr= 21
+Entropy= 1.14794 Purity= 0.744163
+max = 0.00054436
+itr= 22
+Entropy= 1.14771 Purity= 0.743916
+max = 0.000442547
+itr= 23
+Entropy= 1.14852 Purity= 0.743669
+max = 0.000321663
+itr= 24
+Entropy= 1.1477 Purity= 0.743669
+max = 0.000331882
+itr= 25
+Entropy= 1.14688 Purity= 0.743669
+max = 0.000354149
+itr= 26
+Entropy= 1.14326 Purity= 0.744287
+max = 0.000376897
+itr= 27
+Entropy= 1.14382 Purity= 0.744163
+max = 0.000289875
+itr= 28
+Entropy= 1.1424 Purity= 0.74441
+max = 0.000492612
+itr= 29
+Entropy= 1.14354 Purity= 0.744657
+max = 0.000227093
+itr= 30
+Entropy= 1.14288 Purity= 0.744781
+max = 0.000145747
+itr= 31
+Entropy= 1.14195 Purity= 0.744534
+max = 0.000125418
+itr= 32
+Entropy= 1.143 Purity= 0.74404
+max = 4.50373e-05
+
+trials= 18
+itr= 0
+Entropy= 1.68747 Purity= 0.657072
+max = 0.795298
+itr= 1
+Entropy= 1.29054 Purity= 0.733539
+max = 0.0491728
+itr= 2
+Entropy= 1.14288 Purity= 0.752193
+max = 0.0903889
+itr= 3
+Entropy= 1.08462 Purity= 0.756022
+max = 0.0128557
+itr= 4
+Entropy= 1.06373 Purity= 0.763064
+max = 0.0134973
+itr= 5
+Entropy= 1.04576 Purity= 0.768252
+max = 0.00552441
+itr= 6
+Entropy= 1.03866 Purity= 0.770599
+max = 0.00180757
+itr= 7
+Entropy= 1.03634 Purity= 0.771587
+max = 0.000789079
+itr= 8
+Entropy= 1.03693 Purity= 0.77134
+max = 0.000387765
+itr= 9
+Entropy= 1.03872 Purity= 0.771217
+max = 0.000447616
+itr= 10
+Entropy= 1.04016 Purity= 0.771093
+max = 0.000218735
+itr= 11
+Entropy= 1.04073 Purity= 0.770352
+max = 0.000147362
+itr= 12
+Entropy= 1.04019 Purity= 0.770476
+max = 9.48986e-05
+
+trials= 19
+itr= 0
+Entropy= 1.56697 Purity= 0.68882
+max = 0.837536
+itr= 1
+Entropy= 1.26667 Purity= 0.734404
+max = 0.0317983
+itr= 2
+Entropy= 1.17242 Purity= 0.745275
+max = 0.0496688
+itr= 3
+Entropy= 1.11114 Purity= 0.752934
+max = 0.0366563
+itr= 4
+Entropy= 1.06229 Purity= 0.766893
+max = 0.012086
+itr= 5
+Entropy= 1.02423 Purity= 0.778752
+max = 0.00396979
+itr= 6
+Entropy= 1.00764 Purity= 0.783323
+max = 0.000478368
+itr= 7
+Entropy= 0.999719 Purity= 0.7853
+max = 0.000902508
+itr= 8
+Entropy= 0.996703 Purity= 0.785794
+max = 0.00095538
+itr= 9
+Entropy= 0.995637 Purity= 0.786041
+max = 0.000961147
+itr= 10
+Entropy= 0.996817 Purity= 0.785547
+max = 0.00192849
+itr= 11
+Entropy= 0.994546 Purity= 0.785917
+max = 0.00853867
+itr= 12
+Entropy= 0.994237 Purity= 0.785917
+max = 0.000866795
+itr= 13
+Entropy= 0.993037 Purity= 0.786041
+max = 0.00021326
+itr= 14
+Entropy= 0.991888 Purity= 0.786164
+max = 9.11183e-05
