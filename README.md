@@ -7,6 +7,6 @@ class-file: reuters21578.class
 #clusters: number of clusters
 #trials: trials with different seeds. max values an be 20.
 
->make preprocess
->make kcluster
->./kcluster input-file criterion-function class-file #clusters #trials output-file
+1) make preprocess
+2) make kcluster
+3) ./kcluster input-file criterion-function class-file #clusters #trials output-file
