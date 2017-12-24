@@ -13,6 +13,8 @@ class-file: reuters21578.class
 
 #trials: trials with different seeds. max values an be 20.
 
+criterion-function: SSE(K-means), I2(spherical K-means), or E1
+
 1) make preprocess
 2) make kcluster
 3) ./kcluster input-file criterion-function class-file #clusters #trials output-file
